@@ -41,7 +41,7 @@ For years ago, I wanted to buid my first home page and I built this page when I 
 
 ### Skeleton
 ```
-  team-members-page(folder)
+  Home-page(folder)
 |
 |----readme.md        
 |----/images # My and chidren's photo         

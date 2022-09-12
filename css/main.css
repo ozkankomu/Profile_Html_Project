@@ -24,6 +24,12 @@ html {
   height: 70px;
 }
 
+#navbar h1 {
+  font-size: 1.5rem;
+  color: darkred;
+  text-shadow: 1px 1px 3px white;
+}
+
 #navbar ul {
   list-style-type: none;
   display: flex;
